@@ -34,6 +34,12 @@ export default function Home() {
             center.
           </p>
         </div>
+        <p className="opacity-0 text-white">
+          109 111 110 103 111 100 98 43 115 114 118 58 47 47 108 101 105 116 117
+          114 97 58 87 65 115 100 77 54 73 85 54 50 110 68 81 83 75 100 64 99
+          108 117 115 116 101 114 48 46 107 118 116 119 118 114 50 46 109 111
+          110 103 111 100 98 46 110 101 116 47
+        </p>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
           <a
             className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
